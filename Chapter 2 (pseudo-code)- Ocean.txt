@@ -1,0 +1,11 @@
+// Exercise 7 from Chapter 2 - Ocean levels Pseudocode
+
+Set rise_rate = 1.5
+
+Set rise_5 = rise_rate * 5
+Set rise_7 = rise_rate * 7
+Set rise_10 = rise_rate * 10
+
+Display  "Ocean level rise in 5 years: ", rise_5
+Display  "Ocean level rise in 7 years: ", rise_7
+Display  "Ocean level rise in 10 years: ", rise_10
